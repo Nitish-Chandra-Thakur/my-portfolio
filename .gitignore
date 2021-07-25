@@ -1,0 +1,5 @@
+// Adding a single file as its full name with its extension as - - - error.log
+
+// To add same extension files in .gitignore folder we can use regex as
+
+*.log
