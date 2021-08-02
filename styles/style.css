@@ -3,11 +3,38 @@ body{
 }
 
 .home{
-    height: 100vh;
+    height: 120vh;
     background: linear-gradient(
         rgba(0,0,0,0.8),
         rgba(0,0,0,0.2)),
         url('../imgs/background.jpg');
+        background-size: cover;
+}
+
+.abt{
+    height: 120vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.2)),
+        url('../imgs/about.jpg');
+        background-size: cover;
+}
+
+.prjt{
+    height: 140vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.2)),
+        url('../imgs/contact.jpg');
+        background-size: cover;
+}
+
+.cnct{
+    height: 120vh;
+    background: linear-gradient(
+        rgba(0,0,0,0.8),
+        rgba(0,0,0,0.2)),
+        url('../imgs/contact_2.jpg');
         background-size: cover;
 }
 
